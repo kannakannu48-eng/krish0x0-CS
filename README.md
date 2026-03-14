@@ -1,3 +1,3 @@
 # krish0x0-CS
-This is my first Git Reposit
+This is my first Git Reposit.
 Author- krishna kumar
